@@ -118,7 +118,7 @@ Some observations from the analysis include:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Madhulika Sangamareddy**
 
